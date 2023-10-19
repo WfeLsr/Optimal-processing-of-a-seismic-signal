@@ -27,4 +27,4 @@ a. We determine the parametric model (AR).
 b. We then predict the synthesis signal corresponding to the model found.
 c. We calculate the FPE and deduce the minimum order.
 
-
+You can find more information in the attached .pdf file
